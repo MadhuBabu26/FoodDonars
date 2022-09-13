@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodDonationManagementSystem", "FoodDonationManagementSystem.csproj", "{931B7467-6D7F-408F-918C-DC27DFBB1FEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodDonarTest", "..\FoodDonarTest\FoodDonarTest.csproj", "{71653C22-8733-4296-B8B8-85D912C1AE4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{931B7467-6D7F-408F-918C-DC27DFBB1FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931B7467-6D7F-408F-918C-DC27DFBB1FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931B7467-6D7F-408F-918C-DC27DFBB1FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931B7467-6D7F-408F-918C-DC27DFBB1FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71653C22-8733-4296-B8B8-85D912C1AE4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71653C22-8733-4296-B8B8-85D912C1AE4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71653C22-8733-4296-B8B8-85D912C1AE4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71653C22-8733-4296-B8B8-85D912C1AE4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC679DDA-5E54-4723-8AA8-B6420FF8A688}
+	EndGlobalSection
+EndGlobal
